@@ -1,4 +1,4 @@
-package com.example.wso05.ui.theme
+package com.example.wso05
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -14,8 +14,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.w05.ui.theme.MyApplicationTheme
-
-
 
 
 class MainActivity : ComponentActivity() {

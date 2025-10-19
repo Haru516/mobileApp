@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "wso05"
 include(":app")
 include(":wso05")
+include(":w04")
